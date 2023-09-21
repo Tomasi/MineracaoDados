@@ -27,6 +27,9 @@ Usando o exemplo de classificação para doenças cardiovasculares, será formu
 
 # Entendimento e Preparação de Dados
 
+Formato dos Dados: String e Float
+
+
 | Id | Age | Gender | Heart Rate (bpm) | Blood Pressure (mmHg) | Heart Problem | BMI | Cholesterol Level | Diabetes | Smoking | Insurance Provider | Address              | Contact Number    |
 |----|-----|--------|-------------------|------------------------|--------------|-----|-------------------|----------|---------|--------------------|----------------------|-------------------|
 | 1  | 45  | Male   | 72                | 120/80                 | No           | 26.5| 190               | No       | No      | ABC Health         | 123 Main St, City    | (555) 123-4567    |
