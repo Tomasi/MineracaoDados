@@ -1,3 +1,5 @@
+#Alunos:  Igor Tomasi e Caio Miranda
+
 # Domínio de Exemplo (Techniques of Data Mining In Healthcare)
 
 Artigo - [https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=82289448146b86c6160bf5225bd5e3cea35a8c57]
