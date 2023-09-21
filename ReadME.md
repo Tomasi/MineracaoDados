@@ -27,8 +27,11 @@ Usando o exemplo de classificação para doenças cardiovasculares, será formu
 
 # Entendimento e Preparação de Dados
 
-Formato dos Dados: String e Float
+Formato dos Dados: String, Inteiro e Float
 
+Raspagem/Extração e Limpeza de Dados: 
+
+- Campo de "BMI" deve ser float
 
 | Id | Age | Gender | Heart Rate (bpm) | Blood Pressure (mmHg) | Heart Problem | BMI | Cholesterol Level | Diabetes | Smoking | Insurance Provider | Address              | Contact Number    |
 |----|-----|--------|-------------------|------------------------|--------------|-----|-------------------|----------|---------|--------------------|----------------------|-------------------|
