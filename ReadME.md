@@ -16,30 +16,3 @@ Usando a "propriedade Apriori", permitindo que a mineração de associações fo
 ![image](https://github.com/Tomasi/MineracaoDados/assets/61890715/336f4f9d-46cf-4146-91c4-907360f2b969)
 
 ![image](https://github.com/Tomasi/MineracaoDados/assets/61890715/4474f8d2-703d-4009-88ec-a974050392cc)
-
-# Questões Analísticas (QA)
-
-Usando o exemplo de classificação para doenças cardiovasculares, será formulado três questões analíticas:
-
-- O fator idade é um dado de importância para classificar o paciente?
-- Qual a faixa considerada normal de frequência cardiaca para as idades contidas no modelo?
-- Qual a faixa considerada normal de pressão arterial para as idades contidas no modelo?
-
-# Entendimento e Preparação de Dados
-
-Formato dos Dados: String, Inteiro e Float
-
-Raspagem/Extração e Limpeza de Dados: 
-
-- Campo de "BMI" deve ser float
-
-| Id | Age | Gender | Heart Rate (bpm) | Blood Pressure (mmHg) | Heart Problem | BMI | Cholesterol Level | Diabetes | Smoking | Insurance Provider | Address              | Contact Number    |
-|----|-----|--------|-------------------|------------------------|--------------|-----|-------------------|----------|---------|--------------------|----------------------|-------------------|
-| 1  | 45  | Male   | 72                | 120/80                 | No           | 26.5| 190               | No       | No      | ABC Health         | 123 Main St, City    | (555) 123-4567    |
-| 2  | 62  | Female | 78                | 140/90                 | Yes          | 29.2| 220               | Yes      | No      | XYZ Insurance      | 456 Elm St, Town     | (555) 987-6543    |
-| 3  | 35  | Male   | 65                | 110/70                 | No           | 22.0| 160               | No       | Yes     | ABC Health         | 789 Oak Ave, Village | (555) 456-7890    |
-| 4  | 50  | Female | 80                | 130/85                 | No           | 27.8| 200               | No       | Yes     | LMN Insurance      | 101 Pine Rd, City    | (555) 789-0123    |
-| 5  | 55  | Male   | 68                | 125/82                 | Yes          | 25.3| 180               | No       | No      | XYZ Insurance      | 222 Cedar Ln, Town  | (555) 321-9876    |
-
-
-
