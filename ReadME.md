@@ -1,6 +1,6 @@
 # Domínio de Exemplo (Techniques of Data Mining In Healthcare)
 
-[Artigo de Referência]([https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=82289448146b86c6160bf5225bd5e3cea35a8c57)
+Artio[]([https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=82289448146b86c6160bf5225bd5e3cea35a8c57)
 
 A mineração de dados desempenha um papel de extrema importância no domínio da saúde, uma vez que as organizações de saúde em todo o mundo armazenam os dados relacionados à saúde em formato eletrônico. Esses dados de saúde contêm informações detalhadas sobre pacientes e todas as partes envolvidas na indústria da saúde. A quantidade de dados desse tipo está aumentando rapidamente, levando a uma complexidade significativa. Tradicionalmente, extrair informações significativas desses dados era uma tarefa árdua, mas avanços nas áreas de estatística, matemática e outras disciplinas tornaram possível identificar padrões relevantes.
 
