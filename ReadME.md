@@ -25,3 +25,19 @@ Usando o exemplo de classificação para doenças cardiovasculares, será formu
 - Qual a faixa considerada normal de frequência cardiaca para as idades contidas no modelo?
 - Qual a faixa considerada normal de pressão arterial para as idades contidas no modelo?
 
+# Entendimento e Preparação de Dados
+
+| Id | Age | Gender | Heart Rate (bpm) | Blood Pressure (mmHg) | Heart Problem | BMI | Cholesterol Level | Diabetes | Smoking | Insurance Provider | Address              | Contact Number    |
+|----|-----|--------|-------------------|------------------------|--------------|-----|-------------------|----------|---------|--------------------|----------------------|-------------------|
+| 1  | 45  | Male   | 72                | 120/80                 | No           | 26.5| 190               | No       | No      | ABC Health         | 123 Main St, City    | (555) 123-4567    |
+| 2  | 62  | Female | 78                | 140/90                 | Yes          | 29.2| 220               | Yes      | No      | XYZ Insurance      | 456 Elm St, Town     | (555) 987-6543    |
+| 3  | 35  | Male   | 65                | 110/70                 | No           | 22.0| 160               | No       | Yes     | ABC Health         | 789 Oak Ave, Village | (555) 456-7890    |
+| 4  | 50  | Female | 80                | 130/85                 | No           | 27.8| 200               | No       | Yes     | LMN Insurance      | 101 Pine Rd, City    | (555) 789-0123    |
+| 5  | 55  | Male   | 68                | 125/82                 | Yes          | 25.3| 180               | No       | No      | XYZ Insurance      | 222 Cedar Ln, Town  | (555) 321-9876    |
+| 6  | 42  | Female | 75                | 118/78                 | No           | 23.7| 175               | No       | No      | DEF Health         | 333 Maple St, City  | (555) 234-5678    |
+| 7  | 68  | Male   | 70                | 135/88                 | Yes          | 28.1| 210               | Yes      | No      | LMN Insurance      | 444 Birch Ave, Town | (555) 876-5432    |
+| 8  | 47  | Female | 72                | 122/79                 | No           | 26.0| 195               | No       | Yes     | DEF Health         | 555 Walnut Rd, City | (555) 345-6789    |
+| 9  | 58  | Male   | 76                | 128/84                 | Yes          | 27.5| 205               | No       | No      | GHI Insurance      | 666 Oakwood Ln, Town| (555) 987-6543    |
+| 10 | 40  | Female | 68                | 115/75                 | No           | 24.6| 170               | No       | Yes     | GHI Insurance      | 777 Cedar Ave, City | (555) 234-5678    |
+
+
