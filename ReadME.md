@@ -8,8 +8,20 @@ A mineração de dados desempenha um papel crucial ao extrair padrões significa
 
 As técnicas de mineração de dados são extremamente úteis no domínio da saúde, pois melhoram os serviços médicos prestados aos pacientes e auxiliam as organizações de saúde em várias decisões de gerenciamento médico. Alguns dos serviços oferecidos pelas técnicas de mineração de dados na área da saúde incluem a estimativa do tempo de internação em um hospital, a classificação de hospitais, tratamentos mais eficazes, detecção de fraudes em seguros médicos, readmissão de pacientes, identificação de métodos de tratamento melhores para grupos específicos de pacientes e a construção de sistemas eficazes de recomendação de medicamentos.
 
+Métodos de clusterização baseados em densidade desempenham um papel muito importante na pesquisa biomédica porque são capazes de lidar com qualquer cluster de forma arbitrária. Pesquisas recentes comprovam que este método pode ser eficiente e eficaz para extrair padrões significativos de um banco de dados muito grande composto principalmente por imagens biomédicas
+
+Usando a "propriedade Apriori", permitindo que a mineração de associações fosse aplicada a bancos de dados reais para extrair regras de associação. A fim de descobrir os padrões frequentes e as relações interessantes entre um conjunto de itens de dados no repositório de dados, a associação é uma das abordagens mais essenciais da mineração de dados. Isso tem um grande impacto no campo da saúde para detectar as relações entre doenças, estado de saúde e sintomas. Pesquisadores atualmente usam essa abordagem para determinar as relações entre diversas doenças e os medicamentos prescritos para elas. Essa abordagem é amplamente utilizada pelas companhias de seguros de saúde para identificar fraudes e abusos.
+
 
 ![image](https://github.com/Tomasi/MineracaoDados/assets/61890715/336f4f9d-46cf-4146-91c4-907360f2b969)
 
 ![image](https://github.com/Tomasi/MineracaoDados/assets/61890715/4474f8d2-703d-4009-88ec-a974050392cc)
+
+# Questões Analísticas (QA)
+
+Usando o exemplo de classificação para doenças cardiovasculares, será formulado três questões analíticas:
+
+- O fator idade é um dado de importância para classificar o paciente?
+- Qual a faixa considerada normal de frequência cardiaca para as idades contidas no modelo?
+- Qual a faixa considerada normal de pressão arterial para as idades contidas no modelo?
 
