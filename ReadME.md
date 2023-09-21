@@ -1,4 +1,4 @@
-#Alunos:  Igor Tomasi e Caio Miranda
+# Alunos:  Igor Tomasi e Caio Miranda
 
 # Domínio de Exemplo (Techniques of Data Mining In Healthcare)
 
